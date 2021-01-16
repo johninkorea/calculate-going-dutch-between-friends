@@ -10,7 +10,7 @@ wonseok pay 50000 won and A, B, C are pay each 30000, 3000, 0 won.
 
 then result are print like this.
 
-(When you type in inputs, you have to make each variable length are same)
+(When you type in inputs, you have to make each variable length are same.)
 
 #### ***********************************************************************
 여러명의 더치 페이 계산을 도와줍니다.
@@ -64,15 +64,16 @@ A에게 7500.0원을 줍니다
 B에게 750.0원을 줍니다
 #### **************************************************
 
-## Example2
+## Example 2
 
 You can type in with Mathematical symbols.
 
-As a same supposition. These is the result
+These is the result, as a same supposition. 
 
 ![Screenshot from 2021-01-16 10-32-04](https://user-images.githubusercontent.com/77234845/104793495-3ba9a400-57e6-11eb-8ece-43c12bfe0fc6.png)
 
 ***********************************************************************
 ### RequirementRequirement
+
 Python3
 
