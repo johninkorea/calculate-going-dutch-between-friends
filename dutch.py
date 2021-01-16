@@ -31,3 +31,37 @@ d=[]
 while x<a:
 	d.append(c[x]/a)
 	x+=1
+
+
+
+# print result
+y=0
+print("*"*50)
+while y<a:
+    print("{}는 모두에게 {}원을 받아야합니다.".format(b[y],str(d[y])))
+    y+=1
+print("*"*50)
+
+z=0
+while z<a:
+    print("{}입장에서는 ".format(b[z]))
+    e=d[z]
+    f=b[z]
+    del b[z]
+    del d[z]
+    v=0
+    while v<a-1:
+        j=e-d[v]
+        k=float(j)
+        if j>0:
+            h='원을 받습니다'
+        elif j==0:
+            h='가만히'
+        else:
+            h='원을 줍니다'
+        print("{}에게 {}{}".format(b[v],abs(j),h))
+        v+=1
+    d.insert(z,e)
+    b.insert(z,f)
+    z+=1
+    print("*"*50)
