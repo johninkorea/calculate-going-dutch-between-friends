@@ -2,7 +2,7 @@
 ***********************************************************************
 ## This program can help calculate when we have to divide money between friends
 ***********************************************************************
-### Example
+### Example 1
 
 If there are wonseok, A, B, C.
 
@@ -63,6 +63,15 @@ A에게 7500.0원을 줍니다
 
 B에게 750.0원을 줍니다
 #### **************************************************
+
+## Example2
+
+You can type in with Mathematical symbols.
+
+As a same supposition. These is the result
+
+![Screenshot from 2021-01-16 10-32-04](https://user-images.githubusercontent.com/77234845/104793495-3ba9a400-57e6-11eb-8ece-43c12bfe0fc6.png)
+
 ***********************************************************************
 ### RequirementRequirement
 Python3
