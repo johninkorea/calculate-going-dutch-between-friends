@@ -20,3 +20,14 @@ while True:
         print('계산 결과는 다음과 같습니다.')
         break
 
+
+
+# claculation
+a=len(b)
+c =[float(eval(x)) for x in c]
+x=0
+d=[]
+
+while x<a:
+	d.append(c[x]/a)
+	x+=1
