@@ -10,6 +10,8 @@ wonseok pay 50000 won and A, B, C are pay each 30000, 3000, 0 won.
 
 then result are print like this.
 
+(When you type in inputs, you have to make each variable length are same)
+
 #### ***********************************************************************
 여러명의 더치 페이 계산을 도와줍니다.
 
@@ -64,3 +66,4 @@ B에게 750.0원을 줍니다
 ***********************************************************************
 ### RequirementRequirement
 Python3
+
